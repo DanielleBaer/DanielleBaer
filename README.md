@@ -1,5 +1,8 @@
-### Hello everyone! I'm Danielle 👋
+### Hello everyone! I'm Danielle 👋 
 
+![picasion com_8130c3991e84afc9e92d01d70566cc55](https://user-images.githubusercontent.com/77631791/127798054-f136daaf-4a58-476e-9d7f-d9d1651c22a3.gif)
+
+##
 
 - 🔭 I’m currently working with C#
 - 🌱 I’m currently learning JavaScript & React
