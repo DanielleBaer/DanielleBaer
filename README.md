@@ -4,7 +4,8 @@
 
 ##
 
-- 🔭 I’m currently working with C#
+- 👩🏻‍💻 I'm developer at Ambev Tech
+- 🔭 I’m currently working with C#/.Net
 - 🌱 I’m currently learning JavaScript & React
 - 🤔 I’m looking for help with Frontend
 - 😄 Pronouns: she/her
