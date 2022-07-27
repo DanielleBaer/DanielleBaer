@@ -6,8 +6,8 @@
 
 - 👩🏻‍💻 I'm developer at Ambev Tech
 - 🔭 I’m currently working with C#/.Net
-- 🌱 I’m currently learning JavaScript & React
-- 🤔 I’m looking for help with Frontend
+- 🌱 I’m currently learning more about C#
+- 🤔 Frontend is not my cup of tea
 - 😄 Pronouns: she/her
 
 <div> 
